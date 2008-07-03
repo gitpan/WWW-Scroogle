@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                WWW-Scroogle
+version:             0.0131
+abstract:            Perl Extension for Scroogle
+license:             ~
+author:              
+    - Lars Hartmann <lars (at) chaotika (dot) org>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+    LWP:                           5.808
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
