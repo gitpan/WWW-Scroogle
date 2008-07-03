@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                WWW-Scroogle
-version:             0.0131
+version:             0.0132
 abstract:            Perl Extension for Scroogle
 license:             ~
 author:              
